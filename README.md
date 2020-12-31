@@ -8,5 +8,5 @@
 - 💬 Ask me about my coding journey
 - 📫 How to reach me: mosesbasing@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ 2021 Goal: To become a fullstack web developer and contribute to Open Source projects
+- ⚡ 2021 Goal: To become a Software Quality Assurance Engineer
 

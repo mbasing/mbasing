@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋 my name is Basing
 
 
-- 🔭 I’m currently working on React & Redux
-- 🌱 I’m currently learning Software Testing & Verification
-- 👯 I’m looking to collaborate on Reactjs
+- 🔭 I’m currently working on a Software Testing & Verification course
+- 🌱 I’m currently learning Software Development & Engineering 
+- 👯 I’m looking to collaborate with other software developers
 - 🤔 I’m looking for help with Redux
-- 💬 Ask me about anything
+- 💬 Ask me about my coding journey
 - 📫 How to reach me: mosesbasing@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am efficiency personified 
+- ⚡ 2021 Goal: To become a fullstack web developer and contribute to Open Source projects
 

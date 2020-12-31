@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Moses Basing
+### Hi there 👋 
 
 
 - 🔭 I’m currently working on a Software Testing & Verification course

@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on Salesforce Commerce Cloud Development 
 - 🌱 I’m currently learning Software Development & Engineering 
 - 👯 I’m looking to collaborate with other software developers
-- 💬 Ask me about my anything
-- 📫 How to reach me: mosesbasing@gmail.com
+- 💬 Ask me about anything
+- 📫 You can reach me on mosesbasing@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ 2021 Goal: To become a Salesforce Commerce Cloud Developer & Architect
 

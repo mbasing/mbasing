@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Salesforce Commerce Cloud Development 
-- 🌱 I’m currently learning NodeJS, ExpressJS, ReactJS, Cypress 
+- 🌱 I’m currently learning NodeJS, ExpressJS, ReactJS, Cypress & Salesforce Commerce Cloud
 - 👯 I’m looking to collaborate with other software developers
 - 💬 Ask me about anything
 - 📫 You can reach me on mosesbasing@gmail.com

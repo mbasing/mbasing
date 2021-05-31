@@ -2,12 +2,12 @@
 
 
 - 🔭 I’m currently working on Salesforce Commerce Cloud Development 
-- 🌱 I’m currently learning NodeJS, ExpressJS, ReactJS, Cypress & Salesforce Commerce Cloud
+- 🌱 I’m currently learning NodeJS, ExpressJS & Salesforce Commerce Cloud
 - 👯 I’m looking to collaborate with other software developers
 - 💬 Ask me about anything
-- 📫 You can reach me on mosesbasing@gmail.com
+- 📫 You can reach me on moses.basing@amalitech.org
 - 😄 Pronouns: He/Him
-- ⚡ 2021 Goal: To become a Salesforce Commerce Cloud Developer & Architect
+<!-- - ⚡ 2021 Goal: To become a Salesforce Commerce Cloud Developer & Architect -->
 
 <br/>
 

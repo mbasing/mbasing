@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning NodeJS, ExpressJS & Salesforce Commerce Cloud
 - 👯 I’m looking to collaborate with other software developers
 - 💬 Ask me about anything
-- 📫 You can reach me on moses.basing@amalitech.com
+- 📫 You can reach me on moses.basing@gmail.com
 - 😄 Pronouns: He/Him
 <!-- - ⚡ 2021 Goal: To become a Certified Salesforce B2C Commerce Developer & Architect -->
 

@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a React Developer
-- 🌱 I’m currently learning Reactjs, NodeJS, ExpressJS & Salesforce Commerce Cloud
+- 🌱 I’m currently learning Reactjs & Salesforce Commerce Cloud Development
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about anything
 - 📫 You can reach me on moses.basing@gmail.com

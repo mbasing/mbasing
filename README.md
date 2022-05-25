@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Salesforce B2C Commerce Development
 - 👯 I’m looking to collaborate with other developers
 - 📫 You can reach me on moses.basing@gmail.com
-- 😄 Pronouns: He/Him
+<!-- - 😄 Pronouns: He/Him -->
 <!-- - ⚡ 2021 Goal: To become a Certified Salesforce B2C Commerce Developer & Architect -->
 
 <br/>

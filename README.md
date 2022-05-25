@@ -4,7 +4,6 @@
 - 🔭 I’m currently working as a React Developer
 - 🌱 I’m currently learning Salesforce B2C Commerce Development
 - 👯 I’m looking to collaborate with other developers
-<!-- - 💬 Ask me about anything -->
 - 📫 You can reach me on moses.basing@gmail.com
 - 😄 Pronouns: He/Him
 <!-- - ⚡ 2021 Goal: To become a Certified Salesforce B2C Commerce Developer & Architect -->

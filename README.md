@@ -12,7 +12,6 @@
 
 <h3 align = 'center'>Technology Stack</h3>
 <p align="center">
-<img src="https://giphy.com/embed/5fBH6zo7vGRiVtF6asg" width= "100" />
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width= "100" />
 <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width= "100" />
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width= "100" />
